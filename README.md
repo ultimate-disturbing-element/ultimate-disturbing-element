@@ -1,7 +1,5 @@
 ### Hi there, I'm Abhinav Rai - [Cross-Platform Developer]👋
 
-## I'm a Developer, and Blogger!!
-
 - 🔭 I'm Currently Working With OpenCubicles Technologies Private Limited!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
