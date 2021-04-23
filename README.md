@@ -1,4 +1,4 @@
-### Hi there, I'm Abhinav Rai - [Cross-Platform Developer]👋
+### Hi there, I'm Abhinav Rai - [Cross-Platform Developer  || Full-Stack Developer]👋
 
 - 🔭 I'm Currently Working With OpenCubicles Technologies Private Limited!
 - 🌱 I’m currently learning everything 🤣
