@@ -18,7 +18,7 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NodeJs" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-<img align="left" alt="Express Js" width="80px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png" />
+<!-- <img align="left" alt="Express Js" width="80px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png" /> -->
 <img align="left" alt="Android" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" />
 <img align="left" alt="Firebase" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
