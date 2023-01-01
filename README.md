@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abhinav-rai-6a7119154/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=origin&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://lyghtjr.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=opera&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
-## Databases :
+## :basecampy: Databases :
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40px" />
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-## Tools I used :
+## 🧰 Tools I used :
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Postman" width="40px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -61,5 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyghtjr&layout=compact?hide=jupyter%20notebook" alt="" />
 <img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/>
+
 
 
