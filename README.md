@@ -56,10 +56,10 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats:
-// <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyghtjr&layout=compact?hide=jupyter%20notebook" alt="" />
-// <img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
-// <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/>
+<!-- ### :fire: My Stats:
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyghtjr&layout=compact?hide=jupyter%20notebook" alt="" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/> -->
 
 
 
