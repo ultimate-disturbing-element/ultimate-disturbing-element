@@ -57,9 +57,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyghtjr&layout=compact?hide=jupyter%20notebook" alt="" />
-<img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/>
+// <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyghtjr&layout=compact?hide=jupyter%20notebook" alt="" />
+// <img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
+// <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/>
 
 
 
