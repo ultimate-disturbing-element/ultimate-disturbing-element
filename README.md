@@ -23,8 +23,8 @@
 #### Hi there, I'm Abhinav Rai - [Cross-Platform Developer  || Full-Stack Developer]👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play Football
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Beyond the screen, I'm an avid football enthusiast, finding my passion for the game only matched by my dedication to software excellence.
 
 ## :hammer_and_wrench: Languages :
 <div>
@@ -61,5 +61,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Lyghtjr&show_icons=true" alt=""/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyghtjr&" alt=""/> -->
 
+## 🏆 GitHub Trophies
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lyghtjr&theme=nord&column=8)](https://github.com/Lyghtjr/github-profile-trophy)
