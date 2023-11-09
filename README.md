@@ -63,4 +63,4 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lyghtjr&theme=nord&column=8)](https://github.com/Lyghtjr/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ultimate-disturbing-element&theme=nord&column=8)](https://github.com/Lyghtjr/github-profile-trophy)
