@@ -23,7 +23,7 @@
 #### Hi there, I'm Abhinav Rai - [Cross-Platform Developer  || Full-Stack Developer]👋
 
 - 🌱 I’m currently learning everything 🤣.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Beyond the screen, I'm an avid football enthusiast, finding my passion for the game only matched by my dedication to software excellence.
 
 ## 🗣️ Languages :
