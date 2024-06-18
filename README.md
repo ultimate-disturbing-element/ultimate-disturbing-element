@@ -20,7 +20,7 @@
 
 ### 👨‍💻: About Me:
 
-#### Hi there, I'm Abhinav Rai - [Senior Software Engineer] [Cross-Platform Developer  || Full-Stack Developer]👋
+#### Hi there, I'm Abhinav Rai - [Cross-Platform Developer  || Full-Stack Developer]👋
 
 - 🌱 I’m currently learning everything 🤣.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
